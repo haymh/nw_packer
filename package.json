@@ -1,0 +1,15 @@
+{
+  "name": "nw_packer",
+  "version": "1.0.0",
+  "description": "This node module allows you to pack your nw.js project with option to skip dev-dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nw.js",
+    "packer"
+  ],
+  "author": "Heng Meng",
+  "license": "ISC"
+}
